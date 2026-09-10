@@ -1,0 +1,78 @@
+/* 
+Código CSS da Página Inicial do Site
+*/
+
+/* 
+Imagem de fundo
+*/
+body{
+  background-image: url('Imagens/davi4.jpg');
+  background-repeat: no-repeat;  /* Impede que a imagem se repita */
+  background-size: cover;       /* Faz a imagem cobrir todo o espaço, sem sobrar buracos */
+  background-position: center;   /* Centraliza a imagem horizontal e verticalmente */
+  background-attachment: fixed;  /* (Opcional) Faz a imagem ficar parada enquanto você rola a página */
+  box-sizing: border-box;
+}
+
+/* 
+Titulo
+*/
+.titulo{
+    color:white;
+    font-family: 'Times New Roman';
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.6); /* Cinza escuro/preto com 60% de opacidade */
+    border-radius: 8px;                    /*Suaviza as pontas do fundo */
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+/* 
+Imagem Humanitti
+*/
+.humanitti{
+    text-align: center;
+}
+
+/* 
+Texto de apresentação do curso
+*/
+.textoapresentacao{
+    color: white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgba(0, 0, 0, 0.6); /* Cinza escuro/preto com 60% de opacidade */
+    border-radius: 8px;                    /*Suaviza as pontas do fundo */
+}
+
+/* 
+Lista do que o curso irá ensinar
+*/
+.lista{
+    color:white;
+    font-size: 18px;
+    text-align: left;
+    margin-left: 165px;
+    margin-right: 500px;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.6); /* Cinza escuro/preto com 60% de opacidade */
+    border-radius: 8px;                    /*Suaviza as pontas do fundo */
+}
+
+/*
+Botão Saiba Mais
+*/
+.saibamais{
+    text-align: right;
+    margin-right: 300px;
+}
+
+.botao{
+    border: 2px solid white;
+    border-radius: 50px;
+    color: white;
+    height: 30px;
+    background-color: gray;
+}

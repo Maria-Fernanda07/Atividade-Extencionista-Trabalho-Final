@@ -1,0 +1,259 @@
+/* 
+Cor de fundo
+*/
+body{
+    background-color: black;
+}
+
+/*
+links colaboradores
+*/
+.colaboradores a:link, a:visited{
+    text-decoration: none;
+}
+
+/* 
+Imagem Humanitti
+*/
+#humanitti{
+    text-align: center;
+}
+
+/* 
+Título
+*/
+.titulo{
+    color:#bebc1b;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    text-align: center;
+}
+
+/* 
+Subtítulo
+*/
+.subtitulo{
+    color:white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+/*
+imagens colaboradores
+*/
+.colaboradores{
+    display: inline-block;
+    text-align: center;
+}
+
+/*
+O que o curso irá ensinar
+*/
+.tema{
+    color:#bebc1b;
+}
+
+/*
+O que o curso irá ensinar
+*/
+.textotema{
+    color:white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+/*
+O que é a humanitti filmes
+*/
+.humanitti{
+    color:#bebc1b;
+}
+
+/*
+O que é a humanitti filmes
+*/
+.textohumanitti{
+    color:white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+/*
+links texto humanitti
+*/
+.textohumanitti a:link, a:visited{
+    color: white;
+}
+
+/*
+links texto humanitti quando o mouse passa em cima
+*/
+.textohumanitti a:hover{
+    color: #bebc1b;
+}
+
+/*
+imagens humanitti filmes
+*/
+.imagenshumanitti{
+   text-align: center;
+}
+
+/*
+imagens humanitti filmes links
+*/
+.imagenshumanitti a:link, a:visited{
+   text-decoration: none;
+}
+
+/*
+imagens produções humanitti filmes
+*/
+.imagensproducoeshumanitti{
+   text-align: center;
+}
+
+/*
+Duração do curso
+*/
+.duracao{
+    color:#bebc1b;
+}
+
+/*
+Duração do curso
+*/
+.textoduracao{
+    color:white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+/*
+Público alvo
+*/
+.publico{
+    color:#bebc1b;
+}
+
+/*
+Público alvo
+*/
+.textopublico{
+    color:white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+/*
+Diferenciais do nosso curso
+*/
+.diferenciais{
+    color:#bebc1b;
+}
+
+/*
+Diferenciais do nosso curso
+*/
+.textodiferenciais{
+    color:white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+/*
+links diferenciais do nosso curso
+*/
+.textodiferenciais a:link, a:visited{
+    color: white;
+}
+
+/*
+links diferenciais do nosso curso quando o mouse passa em cima
+*/
+.textodiferenciais a:hover{
+    color: #bebc1b;
+}
+
+/*
+Local e data do curso
+*/
+.local{
+    color:#bebc1b;
+}
+
+/*
+Local e data do curso
+*/
+.textolocal{
+    color:white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+/*
+links texto local e data
+*/
+.textolocal a:link, a:visited{
+    color: white;
+}
+
+/*
+links texto local e data quando o mouse passa em cima
+*/
+.textolocal a:hover{
+    color: #bebc1b;
+}
+
+/*
+Inscrição
+*/
+.inscricao{
+    color:#bebc1b;
+}
+
+/*
+Inscrição
+*/
+.textoinscricao{
+    color:white;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+/*
+links texto inscrição
+*/
+.textoinscricao a:link, a:visited{
+    color: white;
+}
+
+/*
+links texto inscrição quando o mouse passa em cima
+*/
+.textoinscricao a:hover{
+    color: #bebc1b;
+}
+
+/*
+links whats e insta
+*/
+.whatseinsta a:link, a:visited{
+    text-decoration: none;
+}

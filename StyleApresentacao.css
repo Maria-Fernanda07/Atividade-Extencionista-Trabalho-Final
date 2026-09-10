@@ -1,0 +1,47 @@
+/* 
+Fundo da página
+*/
+body
+{
+    background-color: black;
+}
+
+
+/* 
+Imagem Humanitti
+*/
+.humanitti{
+    text-align: center;
+}
+
+/* 
+Texto Produções
+*/
+.obras
+{
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    /* Mudamos para 180deg (vertical) para alinhar com as faixas de luz e sombra da imagem */
+    background: linear-gradient(
+      180deg,
+      #f8f2cd 0%,    /* Ponto de luz superior (muito claro, quase creme) */
+      #e8c878 30%,   /* Ouro metálico base */
+      #cc9c39 50%,   /* Ouro médio com saturação rica */
+      #9c7c2c 70%,   /* Ouro profundo/sombra média */
+      #69541a 100%   /* Sombra profunda metálica (bronze escuro) */
+    );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  /* Importante: Adicionar um leve contorno interno e externo para dar o 'grosso' do metal */
+  text-shadow: 
+    0.02em 0.02em 0.03em rgba(105, 84, 26, 0.7), /* Sombra externa suave */
+    -0.01em -0.01em 0.01em rgba(248, 242, 205, 0.5); /* Leve brilho interno superior */
+}   
+
+.video{
+  text-align: center;
+  margin-top: 100px;
+}
